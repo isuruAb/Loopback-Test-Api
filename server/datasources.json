@@ -1,0 +1,26 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysqlIDs": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "loopback_migration",
+    "password": "your_db_password",
+    "name": "mysqlIDs",
+    "user": "db_username",
+    "connector": "mysql"
+  },
+  "mysqlMigrates": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "loopback_migration",
+    "password": "your_db_password",
+    "name": "mysqlIDs",
+    "user": "db_username",
+    "connector": "mysql"
+  }
+}
